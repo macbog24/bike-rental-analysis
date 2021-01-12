@@ -1,6 +1,6 @@
 # bike-rental-analysis
 1.	Code environment
-a.	Python 3.7 via Jupyter Notebooks was used to create this solution.
+a)	Python 3.7 via Jupyter Notebooks was used to create this solution.
 Haversine formula inspiration: https://gist.github.com/rochacbruno/2883505
 
 2.	Data exploration
